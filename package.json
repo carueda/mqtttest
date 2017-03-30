@@ -1,0 +1,12 @@
+{
+  "name": "mqtttest",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carueda/mqtttest.git"
+  },
+  "dependencies": {
+    "paho-mqtt": "^1.0.3"
+  }
+}
